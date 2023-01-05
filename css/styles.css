@@ -1,0 +1,17 @@
+body {
+    background-image: url(../img/Dark-Vector-Background.jpg);
+    margin-bottom: 500px;
+}
+
+.logo-machine {
+    height: 100px;
+}
+
+.logo-machine-2 {
+    height: 150px;
+}
+
+/* .navbar {
+    justify-content: center;
+    align-items: center;
+} */
