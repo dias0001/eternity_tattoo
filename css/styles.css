@@ -1,6 +1,6 @@
 body {
     background-image: url(../img/Dark-Vector-Background.jpg);
-    margin-bottom: 500px;
+    margin-bottom: 20px;
 }
 
 .logo-machine {
@@ -61,7 +61,7 @@ body {
     border: none;
     padding: 12px;
     cursor: pointer;
-    opacity: 0.8;
+    opacity: 0.5;
   }
 
   .btn:hover {
