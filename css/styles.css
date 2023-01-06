@@ -1,5 +1,6 @@
 body {
-    background-image: url(../img/Dark-Vector-Background.jpg);
+    background-color: #687375;
+    /* background-repeat: no-repeat; */
     margin-bottom: 20px;
 }
 
@@ -32,6 +33,12 @@ body {
     border-radius: 50px;
     text-align: center;
     font-size: 8px;
+}
+
+/* section bem-vindo */
+
+.card-1 {
+  margin-top: 80px;
 }
 
 #cta {
