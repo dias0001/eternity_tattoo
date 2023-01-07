@@ -3,6 +3,11 @@ body {
     /* background-repeat: no-repeat; */
     margin-bottom: 20px;
 }
+/* navbar */
+
+
+
+/* logo navbar maquininha */
 
 .logo-machine {
     height: 80px;
@@ -22,7 +27,7 @@ body {
     color: rgb(250, 248, 248);
     border-radius: 50px;
     text-align: center;
-    font-size: 30px; 
+    font-size: 1px; 
     margin-top: 8px; 
   }
 
