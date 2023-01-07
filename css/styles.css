@@ -1,7 +1,8 @@
 body {
-    background-color: #687375;
-    /* background-repeat: no-repeat; */
-    margin-bottom: 20px;
+  background-image: url(../img/fundo-misto.png);
+  background-size: cover;
+  background-color: #687375;
+  background-repeat: no-repeat;
 }
 /* navbar */
 
@@ -19,6 +20,12 @@ body {
 
 .logo-tattoo {
     height: 300px;
+}
+
+/* carrosel */
+
+.d-block {
+  opacity: .7;
 }
 
 .instagram{
